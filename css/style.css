@@ -38,7 +38,10 @@ nav .nav-link{
 #hero{
     height: 100vh;
     width: 100%;
-    position: absolute;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #col button a {
