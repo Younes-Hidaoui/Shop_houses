@@ -35,6 +35,10 @@ nav .nav-link{
     padding: 10px;
     border-radius: 10px;
 }
+#id{
+    height: 100vh;
+    position: absolute;
+}
 
 #col button a {
     color: aliceblue;
